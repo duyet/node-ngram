@@ -32,7 +32,7 @@
     "snyk": "^1.258.1"
   },
   "devDependencies": {
-    "mocha": "11.7.4"
+    "mocha": "11.7.5"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
